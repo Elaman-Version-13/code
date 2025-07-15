@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Wellpeper\Wellpeper\bin\Debug\Wellpeper.exe.config
+C:\Users\User\Desktop\Wellpeper\Wellpeper\bin\Debug\Wellpeper.exe
+C:\Users\User\Desktop\Wellpeper\Wellpeper\bin\Debug\Wellpeper.pdb
+C:\Users\User\Desktop\Wellpeper\Wellpeper\obj\Debug\Wellpeper.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Wellpeper\Wellpeper\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Wellpeper\Wellpeper\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Wellpeper\Wellpeper\obj\Debug\Wellpeper_MarkupCompile.cache
+C:\Users\User\Desktop\Wellpeper\Wellpeper\obj\Debug\Wellpeper_MarkupCompile.lref
+C:\Users\User\Desktop\Wellpeper\Wellpeper\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\Wellpeper\Wellpeper\obj\Debug\Wellpeper.g.resources
+C:\Users\User\Desktop\Wellpeper\Wellpeper\obj\Debug\Wellpeper.Properties.Resources.resources
+C:\Users\User\Desktop\Wellpeper\Wellpeper\obj\Debug\Wellpeper.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Wellpeper\Wellpeper\obj\Debug\Wellpeper.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Wellpeper\Wellpeper\obj\Debug\Wellpeper.exe
+C:\Users\User\Desktop\Wellpeper\Wellpeper\obj\Debug\Wellpeper.pdb
